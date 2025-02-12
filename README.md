@@ -1,6 +1,6 @@
 # UNIT NANO C6 ESP32-C6 Development Board
 
-<a href="https://uelectronics.com/producto/unit-nano-c6/"><img src="HARDWARE/Resources/TOP(1V6).png" width="650px"><br/>
+<a href="https://uelectronics.com/producto/unit-nano-c6/"><img src="HARDWARE/Resources/TOP(1V6).png" width="200px"><br/>
 *Click here to purchase one from the UNIT Electronics shop*</a>
 
 For more details, check out the product pages at:
