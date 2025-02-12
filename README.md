@@ -1,11 +1,11 @@
 # UNIT NANO C6 ESP32-C6 Development Board
 
-<a href="https://uelectronics.com/producto/unit-nano-c6/"><img src="HARDWARE/Resources/TOP(1V6).png" width="200px"><br/>
+<a href="https://uelectronics.com"><img src="HARDWARE/Resources/TOP(1V6).png" width="200px"><br/>
 *Click here to purchase one from the UNIT Electronics shop*</a>
 
 For more details, check out the product pages at:
 * [UNIT Electronics Website](https://uelectronics.com/)
-* [Hardware-UNIT NANO C6](https://github.com/UNIT-Electronics/UNIT-NANO-C6/tree/main/HARDWARE)
+* [Hardware-UNIT NANO C6](https://github.com/UNIT-Electronics/UNIT_NANO_C6/tree/main/HARDWARE)
 * [Product Reference Manual](https://github.com/UNIT-Electronics/UNIT-NANO-C6/blob/main/UNIT-NANO-C6(Product%20Reference%20Manual%20)%5BEN%5D.pdf)
 * [UNIT NANO C6 Getting Started Guide](https://unit-electronics.github.io/UNIT-NANO-C6/index.html)
 
@@ -13,7 +13,7 @@ For more details, check out the product pages at:
 
 ## Description
 
-The **UNIT NANO C6** is a compact and powerful development board featuring the **ESP32-C6** microcontroller. Designed with compatibility in mind, it follows the **Arduino Nano** form factor and pin distribution, making it easy to integrate with existing shields and projects.
+The **UNIT NANO ESP32 C6** is a compact and powerful development board featuring the **ESP32-C6** microcontroller. Designed with compatibility in mind, it follows the **Arduino Nano** form factor and pin distribution, making it easy to integrate with existing shields and projects.
 
 Key features include:
 - **Wi-Fi 6**, **Bluetooth 5 (LE)**, **Thread**, and **Matter** support.
@@ -39,7 +39,7 @@ Key features include:
   - Wide input voltage support with onboard regulation.
 
 - **Storage**:
-  - MicroSD card slot for external storage (up to 64GB).
+  - MicroSD card slot for external storage.
 
 - **I2C Connectivity**:
   - QWIIC connector for easy expansion with sensors and peripherals.
@@ -66,7 +66,7 @@ The **UNIT NANO C6** is ideal for:
 
 The **UNIT NANO C6** supports:
 - **Arduino IDE** with ESP32-C6 board package.
-- **MicroPython** and **CircuitPython** with compatible IDEs like Thonny.
+- **MicroPython** and with compatible IDEs like Thonny.
 
 For setup and first projects, refer to the [Getting Started Guide](https://unit-electronics.github.io/UNIT-NANO-C6/index.html).
 
@@ -88,12 +88,10 @@ For detailed circuit design, refer to the [Hardware Documentation](https://githu
 |-------------------------------------------|----------------------------------------------------------------------------------------|
 | **Arduino Package ESP32-C6 JSON**         | [ESP32-C6 Package](https://github.com/UNIT-Electronics/Uelectronics-ESP32-Arduino-Package) |
 | **MicroPython Documentation**             | [MicroPython.org](https://micropython.org/)                                            |
-| **CircuitPython Documentation**           | [Adafruit CircuitPython](https://circuitpython.org/)                                   |
 | **UNIT NANO C6 Documentation**            | [UNIT NANO C6 Documentation](https://github.com/UNIT-Electronics/UNIT-NANO-C6)        |
 | **Getting Started with UNIT NANO C6**     | [UNIT NANO C6 Guide](https://unit-electronics.github.io/UNIT-NANO-C6/index.html)      |
 | **Thonny IDE**                            | [Thonny.org](https://thonny.org/)                                                     |
 | **Arduino IDE**                           | [Arduino IDE](https://www.arduino.cc/en/software)                                     |
-| **CH340 Driver**                          | [CH340 Driver](http://www.wch-ic.com/downloads/CH341SER_ZIP.html)                     |
 | **Visual Studio Code**                    | [Visual Studio Code](https://code.visualstudio.com/download)                          |
 | **ESP32-C6 Datasheet**                    | [ESP32-C6 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) |
 
